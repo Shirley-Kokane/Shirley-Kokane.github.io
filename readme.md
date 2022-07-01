@@ -8,6 +8,7 @@
 <a><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
 <a><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
 <a><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"></a>
+<a><img alt="Bash" src="https://img.shields.io/badge/Bash%20-%23025E8C.svg?style=for-the-badge&logo=bash&logoColor=white"></a>
 </p>
 
 ### 🧰 Frameworks and Libraries
